@@ -1,3 +1,5 @@
 # Marianela Guerrero 
 
- ## Sobre Mí al archivo PORTFOLIO.md
+## Sobre Mí al archivo PORTFOLIO.md
+
+## Habilidades Técnicas 
